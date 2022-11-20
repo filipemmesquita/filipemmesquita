@@ -1,15 +1,18 @@
-### Olá! Me chamo Filipe!
+
+<h1 align="center"> Olá! Me chamo Filipe!</h1>
+<p align="center">
 Uso qualquer pronome! Nerd de computador desde que meus pais me colocaram na frente de um PC para jogar coelho sabido, agora sou um desenvolvedor full-stack!
 Eu deveria listar meus gatos como contribuidores, já que eles estão sempre do lado enquanto trabalho!
+</p>
 
-## Estatísticas 📊
+<h2 align="center"> Estatísticas 📊</h2>
 <div align="center">
   <a href="https://github.com/filipemmesquita"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=filipemmesquita&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemmesquita&layout=compact&langs_count=16&theme=jolly"/> <br>
 </div>
 
-### Linguágens e ferramentas 🛠
+<h2 align="center"> Linguágens e ferramentas 🛠</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-react-&?style=for-the-badge&logo=react&color=black" alt="React logo" />
